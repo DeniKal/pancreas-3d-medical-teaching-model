@@ -1,0 +1,6 @@
+{
+  "name": "Pancreas 3D Medical Teaching Model",
+  "description": "An interactive, anatomical WebXR teaching model of the human pancreas with textual annotations, internal duct cutaways, vascular relations, histology callouts, and clinical correlates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
